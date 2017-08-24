@@ -8,6 +8,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>weixin-manager-mapper</artifactId>
+
     <packaging>jar</packaging>
 
     <name>weixin-manager-mapper</name>
@@ -22,6 +23,11 @@
             <groupId>com.yc.weixin</groupId>
             <artifactId>weixin-manager-model</artifactId>
             <version>1.0-SNAPSHOT</version>
+        </dependency>
+        <dependency>
+            <groupId>junit</groupId>
+            <artifactId>junit</artifactId>
+            <scope>test</scope>
         </dependency>
     </dependencies>
 </project>

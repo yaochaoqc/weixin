@@ -16,11 +16,6 @@
             <artifactId>weixin-manager-service</artifactId>
             <version>1.0-SNAPSHOT</version>
         </dependency>
-        <dependency>
-            <groupId>junit</groupId>
-            <artifactId>junit</artifactId>
-            <scope>test</scope>
-        </dependency>
     </dependencies>
     <build>
         <finalName>weixin-manager-web</finalName>
