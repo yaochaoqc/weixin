@@ -16,6 +16,16 @@
             <artifactId>weixin-manager-service</artifactId>
             <version>1.0-SNAPSHOT</version>
         </dependency>
+        <!-- JSP相关 -->
+        <dependency>
+            <groupId>jstl</groupId>
+            <artifactId>jstl</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>javax.servlet</groupId>
+            <artifactId>jsp-api</artifactId>
+            <scope>provided</scope>
+        </dependency>
     </dependencies>
     <build>
         <finalName>weixin-manager-web</finalName>
