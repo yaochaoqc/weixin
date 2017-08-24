@@ -8,7 +8,7 @@
     <modelVersion>4.0.0</modelVersion>
     <artifactId>weixin-manager-web</artifactId>
     <packaging>war</packaging>
-    <name>weixin-manager-web Maven Webapp</name>
+    <name>weixin-manager-web</name>
     <url>http://maven.apache.org</url>
     <dependencies>
         <dependency>
